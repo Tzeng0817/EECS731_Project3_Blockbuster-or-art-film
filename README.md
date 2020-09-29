@@ -1,4 +1,4 @@
-Blockbuster or art film?
+##Blockbuster or art film?
 
 Process: 
 1. Set up a data science project structure in a new git repository in your GitHub account
